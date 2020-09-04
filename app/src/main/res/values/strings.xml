@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="settings">Настройки</string>
+    <string name="find">Поиск</string>
+    <string name="exit">Выход</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="google">Google</string>
+    <string name="yandex">Яндекс</string>
+    <string name="bing">Bing</string>
+    <string name="app_name_ico">app</string>
+    <string name="request">Запрос</string>
+    <string name="search">Найти</string>
+</resources>
